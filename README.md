@@ -10,9 +10,9 @@ DevTinder is a full-stack web application that helps developers discover, connec
 
 ## 🚀 Live Demo
 
-* 🌐 **Frontend:** https://codemate-10zdbhufs-ayush2005.vercel.app/
-* 🔗 **Backend API:** https://codemate-mu.vercel.app/
-* 💻 **Repository:** https://github.com/AyushSingh200506/CodeMate
+🌐 Live App: https://codemate-10zdbhufs-ayush2005.vercel.app
+
+💻 Repository: https://github.com/AyushSingh200506/CodeMate
 
 ---
 
