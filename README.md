@@ -1,8 +1,8 @@
-# 💝 DevTinder
+# 💝 CodeMate
 
-> **DevTinder – A Full Stack Developer Networking Platform**
+> **CodeMate – A Full Stack Developer Networking Platform**
 
-DevTinder is a full-stack web application that helps developers discover, connect, and build meaningful professional relationships. Inspired by the swipe-based experience of modern networking platforms, it provides an intuitive interface for exploring developer profiles and managing connection requests.
+CodeMate is a full-stack web application that helps developers discover, connect, and build meaningful professional relationships. Inspired by the swipe-based experience of modern networking platforms, it provides an intuitive interface for exploring developer profiles and managing connection requests.
 
 > 🚧 **Status:** Actively Under Development
 
